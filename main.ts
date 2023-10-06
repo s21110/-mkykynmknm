@@ -6,6 +6,3 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     counter = 0
 })
-basic.forever(function () {
-	
-})
